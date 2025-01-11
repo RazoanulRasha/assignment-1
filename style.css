@@ -151,16 +151,18 @@ main{
     padding: 10px 0px;
 }
 
+
 .small-box{
     display: flex;
     justify-content: space-around;
     padding: 20px;
 }
 
-.main2{
-    text-align: center;
+.main2 {
     padding: 30px;
+    text-align: center;
 }
+
 .p1{
     width: auto;
 }
@@ -176,3 +178,45 @@ main{
     background-color: green;
     padding: 15px;
 }
+
+.descrip{
+    width: 10000px;
+    text-align: center;
+    padding: 10px;
+}
+
+.b1{
+    padding: 10px 20px;
+    background-color: rgb(139, 244, 139);
+    border-radius: 10px;
+}
+
+.main-content4{
+    text-align: center;
+    background-color: rgb(146, 237, 192);
+    border-radius: 10px;
+    height: 30vh;
+    padding-top: 50px;
+}
+
+.head{
+    font-size: larger;
+    font-weight: 800;
+    padding: 10px;
+}
+
+.line21{
+    padding: 10px;
+}
+
+.last-content{
+    text-align: center;
+}
+
+.img1{
+    display: flex;
+    justify-content: stretch;
+    width: 150px;
+    align-items: center;
+}
+
