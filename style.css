@@ -22,6 +22,7 @@ main{
     padding: 15px 15px;
     color: rgb(24, 234, 24);
     
+    
 }
 .banner{
     width: 100%;
@@ -49,6 +50,8 @@ main{
 .btn2{
     background-color: green;
     padding: 10px;
+    border: none;
+    border-radius: 10px;
 }
 .img1{
     width: 400px;
@@ -81,6 +84,7 @@ main{
     background-color: rgba(81, 169, 246, 0.991);
     border-radius: 10px;
     padding: 10px;
+    border: none;
 }
 
 .button2{
@@ -88,12 +92,15 @@ main{
     background-color: rgb(53, 241, 15);
     border-radius: 10px;
     padding: 10px;
+    border: none;
+    
 }
 .button3{
     
     background-color: wheat;
     border-radius: 10px;
     padding: 10px;
+    border: none;
 }
 .pa1{
     padding: 10px 0p
@@ -142,6 +149,7 @@ main{
     padding: 10px;
     background-color: green;
     color: white;
+    border: none;
 }
 .pa2{
     padding: 20px 0px;
@@ -189,6 +197,7 @@ main{
     padding: 10px 20px;
     background-color: rgb(139, 244, 139);
     border-radius: 10px;
+    border: none;
 }
 
 .main-content4{
@@ -213,10 +222,38 @@ main{
     text-align: center;
 }
 
-.img1{
+.img2{
     display: flex;
-    justify-content: stretch;
+    
     width: 150px;
+   align-items: center;
+}
+.inputbtn{
+    width: 1400px;
+    max-width: 100%;
+    position:relative;
     align-items: center;
 }
+.em{
+    width: 400px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+}
+.sub{
+    background-color: rgb(86, 239, 188);
+    height: 30px;
+    border-radius: 10px;
+    padding: 10px;
+    aspect-ratio: 1;
+    position: absolute;
+    border: none;
+    color: white;
+}
 
+.inn1{
+    width: 800px;
+    height: 30px;
+    border-radius: 10px;
+    border: none;
+}
