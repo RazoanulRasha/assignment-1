@@ -1,0 +1,124 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+  }
+  .nav{
+   display: flex;
+   justify-content: space-between;
+  }
+  
+  .logo{
+      font-weight: 800;
+      font-style: italic;
+      margin-top: 10px;
+  
+  }
+  .download{
+  
+  }
+  
+  .btn{
+      padding: 10px 10px;
+      background-color: azure;
+      border: 1px solid green;
+      font-weight: bold;
+  
+  }
+  
+  .banner{
+      width: 100%;
+      height: 60vh;
+      border: 1px solid gray;
+      background-image: url("./Hero-bg.png");
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+  }
+  .img{
+     width: 100px;
+  }
+  .btn2{
+      background-color: black;
+      padding: 10px 15px;
+      color: white;
+      border-radius: 10px;
+      
+  }
+  .banner-tittle{
+      padding: 10px;
+  }
+  .pragraph{
+      padding: 10px;
+  }
+  .box1{
+      display: flex;
+      justify-content: space-around;
+      padding: 10px;
+      box-shadow: 5px 5px 10px gray;
+      margin-top: 30px;
+      
+  }
+  .main-content{
+      align-items: center;
+      text-align: center;
+      padding: 10px;
+  }
+  
+  main{
+      width: 90%;
+      background-color: aliceblue;
+      padding-top: 10px;
+      margin: 20px 30px;
+      text-align: center;
+  }
+  .learn{
+      padding: 10px;
+      background-color: wheat;
+      border-radius: 10px;
+  }
+  .pragraph2{
+      padding: 10px;
+  }
+  .boxl{
+      text-align: justify;
+  
+  }
+  .box2{
+      display: flex;
+      justify-content: flex-start;
+      box-shadow: 5px 5px 10px gray ;
+      margin-top: 30px;
+      padding: 10px;
+  }
+  
+  .box2r{
+      text-align: justify;
+      padding: 30px;
+  }
+  .pragraph3{
+      padding: 10px;
+  }
+  .all-box{
+      display: flex;
+      justify-content: space-around;
+      padding: 10px;
+      margin-top: 20px;
+  }
+  .boxhtml{
+      background-color: wheat;
+      padding: 10px;
+      box-shadow: 10px 10px 10px gray;
+     
+  }
+  .boxcss{
+      background-color: antiquewhite;
+      padding: 10px;
+      box-shadow: 10px 10px 10px rgb(11, 80, 139);
+  }
+  .js{
+      background-color: beige;
+      padding: 10px;
+      box-shadow: 10px 10px 10px rgb(0, 8, 15);
+  }
